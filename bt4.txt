@@ -1,0 +1,9 @@
+Bài tập 4: so sánh tính linh hoạt 
+Phần1:
+             so sánh 	  Đường dẫn tuyệt đối 	Đường dẫn tương đối 
+       Độ dài 	Phải viết đầy đủ thư mục gốc, thư mục cha , rồi đến thư mục đích => rất dài , dễ bị sai nếu k nhớ rõ các file thư mục 	  Chỉ thể hiện vị trí thư mục đang đứng và dẫn đến ngay thư mục đích => ngắn gọn 
+       Tính di động 	  Dễ bị gãy nếu thư mục máy mới k có thư mục cùng tên 	Nhanh , mọi máy tính đều có thể truy cập được 
+
+      Phần 2 : lựa chọn giải pháp tối ưu 
+        . Giải pháp tối ưu là sử dụng đường dẫn tương đối 
+        . ý nghĩa của kí hiệu .. là di chuyển về thư mục cha sau đó mới dẫn đến thư mục đích 
